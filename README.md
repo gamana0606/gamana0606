@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gamana0606her">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=Hi%20%2C%20I'm%20 Gamana%20" alt="Hi, I'm Gamana" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=Hi%20%2C%20I'm%20Gamana" alt="Hi, I'm Gamana" />
   </a>
 </p>
 
