@@ -32,9 +32,10 @@ SRM Institute of Science and Technology (SRMIST)
 <a href="https://www.linkedin.com/in/gamana-a-82623b405/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[Email]" target="gamana0606@gamil.com" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="mailto:gamana0606@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+   
 </p>
 
 ### 💭 Dev Quote
