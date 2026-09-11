@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://github.com/gamana0606her">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=Hi%20%2C%20I'm%20[Her%20Name]" alt="Hi, I'm Gamana" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=Hi%20%2C%20I'm%20 Gamana%20" alt="Hi, I'm Gamana" />
   </a>
 </p>
 
 🚀 About Me
 
 I'm a Computer Science Engineering Student at
-[College / University Name]
+SRM Institute of Science and Technology (SRMIST) 
 
-🌱  I'm currently focused on improving my skills in **[Web Development / UI-UX / Python / Java / AI-ML / etc.]**
+🌱  I'm currently focused on improving my skills in **[Web Development / Python / Java / AI-ML / Backend]**
  Pronouns: **she/her**
 
 ## 🛠️ Tech Stack
@@ -31,7 +31,7 @@ I'm a Computer Science Engineering Student at
   <a href="[LinkedIn URL]" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[Email]" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:[Email]" target="gamana0606@gamil.com" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
