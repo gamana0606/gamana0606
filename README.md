@@ -1,51 +1,35 @@
-<p align="center">
-  <a href="https://github.com/gamana0606her">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=922&text=Hi%20%2C%20I'm%20Gamana" alt="Hi, I'm Gamana" />
-  </a>
-</p>
+# Hi, I'm Gamana A 👋
+### *Think. Code. Optimize.*
 
-🚀 About Me
-
-I'm a Computer Science Engineering Student at
-SRM Institute of Science and Technology (SRMIST) 
-
-🌱  I'm currently focused on improving my skills in **[Web Development / Python / Java / AI-ML / Backend]**
-
- Pronouns: **she/her**
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-### 🔗 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/gamana-a-82623b405/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
- <a href="mailto:gamana0606@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-   
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+I am a 2nd-year Computer Science Engineering student passionate about problem-solving and software fundamentals. Currently diving into **C++**, **Object-Oriented Programming (OOP)**, and **Data Structures & Algorithms**.
 
 ---
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/gamana0606her">gamana0606her</a></i>
-</p>
+### 🛠️ Technical Skills
+
+* **Languages:** C, C++, Python
+* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
+* **Developer Tools:** Git, GitHub, VS Code
+
+---
+
+### 🏆 Hackathons & Experience
+
+* **Smart India Hackathon (SIH)**
+  * Contributed as a **Frontend Developer**.
+  * Built responsive web pages and structured user flows for the team's project prototype.
+
+---
+
+### 📚 Education & Goals
+
+* **Degree:** B.Tech in Computer Science & Engineering with Cloud Computing *(Year II)*
+* **Current Focus:** Building practical console applications in C++, practicing DSA problems, and exploring web technologies.
+
+---
+
+### 📫 Connect With Me
+
+* **GitHub:** [@gamana0606](https://github.com/gamana0606)
+* **LinkedIn:** [Gamana A](https://www.linkedin.com/in/gamana-a-82623b405)
+* **Email:** [gamana0606@gmail.com](mailto:gamana0606@gmail.com)
