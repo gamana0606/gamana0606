@@ -1,15 +1,21 @@
-# Hi, I'm Gamana A 👋
-### *Think. Code. Optimize.*
+### 🚀 About Me
 
-I am a 2nd-year Computer Science Engineering student passionate about problem-solving and software fundamentals. Currently diving into **C++**, **Object-Oriented Programming (OOP)**, and **Data Structures & Algorithms**.
+I'm a 2nd-year Computer Science Engineering Student at SRM Institute of Science and Technology (SRMIST).
+
+🌱 I'm currently focused on improving my skills in **C++**, **Object-Oriented Programming (OOP)**, and **Data Structures & Algorithms (DSA)**.
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-* **Languages:** C, C++, Python
-* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
-* **Developer Tools:** Git, GitHub, VS Code
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
@@ -17,19 +23,25 @@ I am a 2nd-year Computer Science Engineering student passionate about problem-so
 
 * **Smart India Hackathon (SIH)**
   * Contributed as a **Frontend Developer**.
-  * Built responsive web pages and structured user flows for the team's project prototype.
+  * Developed responsive web pages and structured user flows for the prototype.
 
 ---
 
-### 📚 Education & Goals
+### 🔗 Connect With Me
 
-* **Degree:** B.Tech in Computer Science & Engineering with Cloud Computing *(Year II)*
-* **Current Focus:** Building practical console applications in C++, practicing DSA problems, and exploring web technologies.
+<p align="left">
+  <a href="https://www.linkedin.com/in/gamana-a-82623b405" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gamana0606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 📫 Connect With Me
+### 💭 Dev Quote
 
-* **GitHub:** [@gamana0606](https://github.com/gamana0606)
-* **LinkedIn:** [Gamana A](https://www.linkedin.com/in/gamana-a-82623b405)
-* **Email:** [gamana0606@gmail.com](mailto:gamana0606@gmail.com)
+> *"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."*
+> 
+> — **C.A.R. Hoare** *Computer Scientist*
