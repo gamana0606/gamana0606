@@ -19,14 +19,6 @@ I'm a 2nd-year Computer Science Engineering Student at SRM Institute of Science 
 
 ---
 
-### 🏆 Hackathons & Experience
-
-* **Smart India Hackathon (SIH)**
-  * Contributed as a **Frontend Developer**.
-  * Developed responsive web pages and structured user flows for the prototype.
-
----
-
 ### 🔗 Connect With Me
 
 <p align="left">
